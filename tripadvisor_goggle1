@@ -1,0 +1,7 @@
+! name: Reddit Search
+! description: Prioritize searching through Reddit's user generated content.
+! public: false
+! author: me
+
+$discard
+$boost=10,site=tripadvisor.com
