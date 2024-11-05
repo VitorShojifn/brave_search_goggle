@@ -4,6 +4,6 @@
 ! author: me
 
 $discard
-$boost=1,site=reddit.com
-$boost=1,site=www.reddit.com
-$boost=1,site=old.reddit.com
+$boost=10,site=reddit.com
+$boost=10,site=www.reddit.com
+$boost=10,site=old.reddit.com
