@@ -1,0 +1,8 @@
+! name: Youtube Goggle
+! description: Rerank results to retrieve youtube videos
+! public: false
+! author: Me
+
+$discard
+$boost=4,site=youtube.com
+/shorts/$discard,site=instagram.com
