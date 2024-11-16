@@ -1,0 +1,20 @@
+! name: Dubai Real State Search
+! description: Prioritize searching through Danube's properties
+! public: false
+! author: me
+
+$discard
+$boost=10,site=https://danubeproperties.com/
+$boost=10,site=www.danubeproperties.com/
+$boost=10,site=danubeproperties.com/
+/apartments-for-sale-dubai/$boost=10
+/studio-apartments-sale-dubai/$boost=10
+/one-bedroom-apartments-sale-dubai/$boost=10
+/two-bedroom-apartments-sale-dubai/$boost=10
+/three-bedroom-apartments-sale-dubai/$boost=10
+/four-bedroom-apartments-sale-dubai/$boost=10
+/off-plan-apartments-dubai/$boost=10
+/ready-to-move-apartments-dubai/$boost=10
+/villas-for-sale-dubai/$boost=10
+/duplex-apartments-for-sale-dubai/$boost=10
+/penthouses-for-sale-dubai/$boost=10
