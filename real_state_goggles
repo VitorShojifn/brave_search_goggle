@@ -17,3 +17,7 @@ $boost=10,site=danubeproperties.com
 /villas-for-sale-dubai/$boost=10,site=danubeproperties.com
 /duplex-apartments-for-sale-dubai/$boost=10,site=danubeproperties.com
 /penthouses-for-sale-dubai/$boost=10,site=danubeproperties.com
+
+
+/index/sale-prices-*-dubai.html$boost=10,site=www.bayut.com
+/index/sale-prices-*-dubai.html$boost=10,site=bayut.com
