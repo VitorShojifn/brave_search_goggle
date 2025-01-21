@@ -1,0 +1,11 @@
+! name: Schneider Eletric Search
+! description: Prioritize searching Schneider's products pages
+! public: false
+! author: me
+
+$discard
+! Adding Engie's website
+$boost=10,site=www.se.com
+$boost=10,site=se.com
+
+$boost=10,site=download.schneider-electric.com
