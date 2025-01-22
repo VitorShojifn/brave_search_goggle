@@ -1,0 +1,12 @@
+! name: Convenia Search
+! description: Prioritize searching Convenia's pages
+! public: false
+! author: me
+
+$discard
+! Adding Engie's website
+$boost=10,site=ajuda.convenia.com.br
+$boost=10,site=www.ajuda.convenia.com.br
+
+/knowledge/$boost=10,site=ajuda.convenia.com.br
+/knowledge/$boost=10,site=www.ajuda.convenia.com.br
