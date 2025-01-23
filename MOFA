@@ -1,0 +1,11 @@
+! name: MOFA Search
+! description: Prioritize searching through MOFA's website
+! public: false
+! author: me
+
+$discard
+! Adding Danube's website
+$boost=10,site=www.mofa.gov.sa
+$boost=10,site=mofa.gov.sa
+$boost=10,site=www.visitsaudi.com
+$boost=10,site=visitsaudi.com
