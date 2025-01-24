@@ -1,0 +1,11 @@
+!name: AI Everything Search
+! description: Prioritize searching AI Everything's pages
+! public: false
+! author: me
+
+$discard
+! Adding AI Everything's website
+$boost=10,site=www.aieverythingglobal.com
+$boost=10,site=aieverythingglobal.com
+/home$boost=10,site=www.aieverythingglobal.com
+/home$boost=10,site=aieverythingglobal.com
