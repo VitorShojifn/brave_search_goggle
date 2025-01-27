@@ -1,0 +1,21 @@
+! name: Mindware Search
+! description: Prioritize searching through Mindware websites
+! public: false
+! author: me
+
+$discard
+! Adding mindware net website
+$boost=10,site=www.mindware.net
+$boost=10,site=mindware.net
+
+! Adding mindware cloud website
+$boost=10,site=www.mindwarecloud.com
+$boost=10,site=mindwarecloud.com
+
+! Adding mindware training website
+$boost=10,site=www.trainocate.com
+$boost=10,site=trainocate.com
+
+! Adding mindware store website
+$boost=10,site=www.store.mindware.net
+$boost=10,site=store.mindware.net
