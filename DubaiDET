@@ -1,0 +1,17 @@
+! name: Dubai DET Search
+! description: Prioritize searching through Dubai official websites
+! public: false
+! author: me
+
+$discard
+! Adding DET's website
+$boost=10,site=www.dubaidet.gov.ae
+$boost=10,site=dubaidet.gov.ae
+
+! Adding DM's website
+$boost=10,site=www.dm.gov.ae
+$boost=10,site=dm.gov.ae
+
+! Adding visitDubai's website
+$boost=10,site=www.visitdubai.com
+$boost=10,site=visitdubai.com
