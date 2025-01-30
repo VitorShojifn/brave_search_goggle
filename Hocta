@@ -1,0 +1,9 @@
+! name: Hocta Search
+! description: Prioritize searching through Hocta's website
+! public: false
+! author: me
+
+$discard
+! Adding Hocta's website
+$boost=10,site=hocta-helpdesk.notion.site
+$boost=10,site=www.hocta-helpdesk.notion.site
