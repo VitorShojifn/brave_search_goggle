@@ -7,3 +7,7 @@ $discard
 ! Adding Hocta's website
 $boost=10,site=hocta-helpdesk.notion.site
 $boost=10,site=www.hocta-helpdesk.notion.site
+
+! Adding vibetecnologia's website
+$boost=10,site=vibetecnologia.notion.site
+$boost=10,site=www.vibetecnologia.notion.site
