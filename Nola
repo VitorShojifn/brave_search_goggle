@@ -1,0 +1,9 @@
+! name: Nola Search
+! description: Prioritize searching through Nola's website
+! public: false
+! author: me
+
+$discard
+! Adding Nola's website
+$boost=10,site=www.arcca.notion.site
+$boost=10,site=arcca.notion.site
