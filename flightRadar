@@ -1,0 +1,11 @@
+! name: Flight Radar Search
+! description: Prioritize searching Flight Radar's pages
+! public: false
+! author: me
+
+$discard
+! Adding Flight Radar's website
+$boost=10,site=flightradar24.com
+$boost=10,site=www.flightradar24.com
+/data/flights/$boost=10,site=www.flightradar24.com
+/data/flights/$boost=10,site=flightradar24.com
