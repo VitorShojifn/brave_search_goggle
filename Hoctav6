@@ -5,6 +5,6 @@
 
 $discard
 ! Adding Hocta's website
-$boost=10,site=hocta-helpdesk.notion.site
-/Hocta-Help-Center|$boost=10,site=hocta-helpdesk.notion.site
-|https://hocta-helpdesk^$boost=10,site=hocta-helpdesk.notion.site
+$boost=10,site=hocta-helpdesk.notion
+/Hocta-Help-Center|$boost=10,site=hocta-helpdesk.notion
+|https://hocta-helpdesk^$boost=10,site=hocta-helpdesk.notion
