@@ -7,11 +7,19 @@ $discard
 ! Adding Hocta's website
 $boost=3,site=notion.site
 $boost=10,site=hocta-helpdesk.notion.site
+
+/Hocta-Help-Center-44f8bae627b547e3b085cbd09a38859a$boost=10,site=hocta-helpdesk.notion.site
+/Hocta-Help-Center-44f8bae627b547e3b085cbd09a38859a*$boost=10,site=hocta-helpdesk.notion.site
+/Hocta-Help-Center-44f8bae627b547e3b085cbd09a38859a^$boost=10,site=hocta-helpdesk.notion.site
+
 /Hocta-Help-Center-44f8bae627b547e3b085cbd09a38859a$boost=10,site=notion.site
 /Hocta-Help-Center-44f8bae627b547e3b085cbd09a38859a*$boost=10,site=notion.site
 /Hocta-Help-Center-44f8bae627b547e3b085cbd09a38859a^$boost=10,site=notion.site
+
 |https://hocta-helpdesk.$boost=10,site=notion.site
 |https://hocta-helpdesk*$boost=10,site=notion.site
 |https://hocta-helpdesk^$boost=10,site=notion.site
+
+
 ^hocta-helpdesk^$boost=10,site=notion.site
 *hocta-helpdesk*$boost=10,site=notion.site
