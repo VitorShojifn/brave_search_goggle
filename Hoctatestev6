@@ -10,3 +10,5 @@ $boost=2,site=notion.site
 /Hocta-Help-Center^|$boost=10,site=notion.site
 |https://hocta-helpdesk*$boost=10,site=notion.site
 |https://hocta-helpdesk^$boost=10,site=notion.site
+^hocta-helpdesk^$boost=10,site=notion.site
+*hocta-helpdesk*$boost=10,site=notion.site
