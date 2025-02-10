@@ -7,3 +7,4 @@ $discard
 ! Adding Hocta's website
 $boost=10,site=notion.site
 /Hocta-Help-Center|$boost=10,site=notion.site
+|https://hocta-helpdesk^$boost=10,site=notion.site
