@@ -23,3 +23,5 @@ $boost=10,site=hocta-helpdesk.notion.site
 
 !^hocta-helpdesk^$boost=10,site=notion.site
 !*hocta-helpdesk*$boost=10,site=notion.site
+
+|https://hocta-helpdesk.notion.site/Hocta-Help-Center-44f8bae627b547e3b085cbd09a38859a#e42b7f582d18426d801033850320b1c8$site=hocta-helpdesk.notion.site
