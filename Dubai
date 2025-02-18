@@ -15,3 +15,7 @@ $boost=10,site=dm.gov.ae
 ! Adding visitDubai's website
 $boost=10,site=www.visitdubai.com
 $boost=10,site=visitdubai.com
+
+! Adding investindubai website
+$boost=10,site=www.investindubai.gov.ae
+$boost=10,site=investindubai.gov.ae
