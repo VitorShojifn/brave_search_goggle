@@ -34,5 +34,42 @@ $boost=10,site=www.digitaldubai.ae
 $boost=10,site=digitaldubai.ae
 /apps-services/details/dubaipay/$boost=10,site=digitaldubai.ae
 
+! Adding Dubai Health's website
+$boost=10,site=www.dubaihealth.ae
+$boost=10,site=dubaihealth.ae
 
-! Dubai Health, Dubai Police, DEWA, GRFDA, DLD, DIFC, Dubai Customs, Federal Authority for Identity and Citizenship Customs and Port Security, Dubai Now, Dubai.ae
+! Adding Dubai Police's website
+$boost=10,site=www.dubaipolice.gov.ae
+$boost=10,site=dubaipolice.gov.ae
+
+! Adding DEWA's website
+$boost=10,site=www.dewa.gov.ae
+$boost=10,site=dewa.gov.ae
+
+! Adding GRFDA's website
+$boost=10,site=www.gdrfad.gov.ae
+$boost=10,site=gdrfad.gov.ae
+
+! Adding DLD's website
+$boost=10,site=www.dubailand.gov.ae
+$boost=10,site=dubailand.gov.ae
+
+! Adding DIFC's website
+$boost=10,site=www.difc.com
+$boost=10,site=difc.com
+
+! Adding Dubai Customs's website
+$boost=10,site=www.dubaicustoms.gov.ae
+$boost=10,site=dubaicustoms.gov.ae
+
+! Adding Federal Authority for Identity and Citizenship Customs and Port Security's website
+$boost=10,site=www.icp.gov.ae
+$boost=10,site=icp.gov.ae
+
+! Adding Dubai Now's website
+$boost=10,site=www.dubainow.dubai.ae
+$boost=10,site=dubainow.dubai.ae
+
+! Adding Dubai.ae's website
+$boost=10,site=www.Dubai.ae
+$boost=10,site=Dubai.ae
